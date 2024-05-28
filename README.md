@@ -27,6 +27,10 @@
 #### Samples
 - Below are a few samples of the model's predictions and the ground truth class from the test set
 ![Example 1:](https://github.com/francofbv/CIFAR100-Inference/assets/116112994/c39e2b93-d0ed-4d68-b1cb-292e94f39cb2) - predicted: 'Dinosoar', True: 'Elephant'
+![Example 2:](https://github.com/francofbv/CIFAR100-Inference/assets/116112994/946a8d87-0bc7-4ead-9705-a138048e2c77) - predicted: 'Wolf', True: 'Television'
+![Example 3:](https://github.com/francofbv/CIFAR100-Inference/assets/116112994/9a794815-250b-49f9-a28c-9ee0776a7b91) - predicted: 'Skyscraper', True: 'Skyscraper'
+
+
 
 
 
