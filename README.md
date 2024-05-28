@@ -15,7 +15,7 @@
 - Loss function: CrossEntropyLoss
 - Optimizer: Stochastic Gradient Descent
 - Batch Size: 64
-- Epochs: 
+- Epochs: 20
 
 ## Results
 
