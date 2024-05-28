@@ -24,4 +24,9 @@
 - ![image](https://github.com/francofbv/CIFAR100-Inference/assets/116112994/5bc548e2-71b4-407d-a974-621c59472fd6)
 - The model achievs 42% accuracy on the dev set, which is quite good considering the size of the model
 
+#### Samples
+- Below are a few samples of the model's predictions and the ground truth class from the test set
+![Example 1:](https://github.com/francofbv/CIFAR100-Inference/assets/116112994/c39e2b93-d0ed-4d68-b1cb-292e94f39cb2) - predicted: 'Dinosoar', True: 'Elephant'
+
+
 
