@@ -7,3 +7,5 @@
 
 ## Model Performance
 - 42% accuracy on CIFAR100 dev set on 20 epochs
+
+$\frac{1}{2}$
