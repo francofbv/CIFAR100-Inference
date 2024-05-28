@@ -22,5 +22,6 @@
 ### Training & Validation
 - The following plots show the validation loss and accuracy over 20 epochs:
 - ![image](https://github.com/francofbv/CIFAR100-Inference/assets/116112994/5bc548e2-71b4-407d-a974-621c59472fd6)
+- The model achievs 42% accuracy on the dev set, which is quite good considering the size of the model
 
 
