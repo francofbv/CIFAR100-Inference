@@ -6,4 +6,4 @@
 - 4 Fully connected layers
 
 ## Model Performance
-- 42% accuracy on CIFAR100 on 20 epochs
+- 42% accuracy on CIFAR100 dev set on 20 epochs
